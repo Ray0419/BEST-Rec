@@ -1,0 +1,12 @@
+# Core
+pandas>=2.2
+numpy>=1.26
+pyarrow>=16.0
+
+# Notebooks
+jupyterlab>=4.2
+ipykernel>=6.29
+
+# Optional/handy
+tqdm>=4.66
+matplotlib>=3.8
